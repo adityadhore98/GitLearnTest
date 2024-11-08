@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 this is Aditya Development branch
+=======
+Main branch modified
+>>>>>>> Stashed changes
